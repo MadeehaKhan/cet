@@ -1,1 +1,1 @@
-this is also to test the case enforcement policy on Git
+there's only one file
